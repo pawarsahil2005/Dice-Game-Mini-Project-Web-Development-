@@ -2,7 +2,7 @@
 
 Welcome to **Dicee**, a fun and interactive web-based dice game built using **HTML**, **CSS**, and **JavaScript**.
 
-## 🚀 Live Demo : [Click here to play Dicee Game]([https://YOUR-USERNAME.github.io/dicee-game/](https://pawarsahil2005.github.io/Dice-Game-Mini-Project-Web-Development-/))
+🔗 **Live Demo**: [Click here to play Dicee Game](https://YOUR-USERNAME.github.io/dicee-game/)
 
 ---
 
