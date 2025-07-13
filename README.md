@@ -2,9 +2,7 @@
 
 Welcome to **Dicee**, a fun and interactive web-based dice game built using **HTML**, **CSS**, and **JavaScript**.
 
-## 🚀 Live Demo
-
-Click the "Roll Dice" button to simulate a dice roll for two players. The one with the higher number wins!
+## 🚀 Live Demo : [Click here to play Dicee Game]([https://YOUR-USERNAME.github.io/dicee-game/](https://pawarsahil2005.github.io/Dice-Game-Mini-Project-Web-Development-/))
 
 ---
 
